@@ -15,10 +15,10 @@
       <li>Tinker Cad - Simulação</li>
     </ul>
     <h2>Diagramas de Retificadores</h2>
-    <ul>
+    <ul list-style-type: none>
     <li align='center'>Diagrama com Ponte</li>
-    <li><img src='images/proteus_ponte.png'></li>
-    <li align='center'>Diagrama com Ponte feita com diodos separados</li>
+    <li listyle='none'><img src='images/proteus_ponte.png'></li>
+    <li align='center';list-style-type='none'>Diagrama com Ponte feita com diodos separados</li>
     <li><img src='images/proteus_diodoseparado.png'></li>
     <li align='center'>Esquemático Tinker</li>
     <li><img src='images/tinker.png'></li>
