@@ -18,7 +18,7 @@
     <h3>Diagrama com Ponte</h3>
     <img src='images/proteus_ponte.png'>
     <h3>Diagrama com Ponte feita com diodos separados</h3>
-    <img src='images/proteus_diodosparado.png'>
+    <img src='images/proteus_diodosperado.png'>
     <h3>Esquemático Tinker</h3>
     <img src='images/tinker.png'>
  <h2 align='center'>Como funciona um retificador</h2>
