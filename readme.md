@@ -23,8 +23,11 @@
     <img src='images/esquematicotinker.gif'>
  <h2 align='center'>Como funciona um retificador</h2>
     <p>O funcionamento de um retificador é relativamente simples. Ele converte a corrente alternada (AC), que muda de direção constantemente, em corrente contínua (DC), que flui sempre em uma única direção. O processo de conversão é realizado por meio de um ou mais diodos retificadores.Os diodos retificadores são dispositivos semicondutores que permitem que a corrente elétrica flua em apenas uma direção. Em um circuito retificador, os diodos são colocados em série com a carga a ser alimentada. Quando a tensão da corrente alternada é positiva, o diodo permite que a corrente flua para a carga. Quando a tensão é negativa, o diodo bloqueia a corrente.
+    <br>
     <br>Existem diferentes tipos de circuitos retificadores, incluindo o retificador de meia onda, o retificador de onda completa e o retificador em ponte. O retificador de meia onda utiliza apenas um diodo, que corta a parte negativa da corrente alternada, produzindo uma forma de onda pulsante de corrente contínua. O retificador de onda completa utiliza dois diodos e produz uma forma de onda mais suave, aproveitando as duas metades da onda AC. Já o retificador em ponte utiliza quatro diodos, produzindo uma forma de onda de corrente contínua ainda mais suave.
+    <br>
     <br>Além disso, alguns retificadores incluem um capacitor em paralelo com a carga, que ajuda a suavizar ainda mais a forma de onda de corrente contínua. Esse capacitor é carregado durante o período em que o diodo está conduzindo e descarregado durante o período em que o diodo está bloqueando.
+    <br>
     <br>Em resumo, um retificador funciona por meio de diodos retificadores que permitem que a corrente elétrica flua em apenas uma direção, convertendo assim a corrente alternada em corrente contínua. Existem diferentes tipos de retificadores, cada um com suas características e aplicações específicas.
     <p>
 </body>
