@@ -30,5 +30,12 @@
     <br>
     <br>Em resumo, um retificador funciona por meio de diodos retificadores que permitem que a corrente elétrica flua em apenas uma direção, convertendo assim a corrente alternada em corrente contínua. Existem diferentes tipos de retificadores, cada um com suas características e aplicações específicas.
     <p>
+<h2 align='center'>TRABALHO FEITO NA AULA 19/05: O circuito Retificador com LM7805<h2>
+ <img src='images/outro foto.png'>
+  <img src='images/outro tinker.png'>
+  <h2 align='center'>O circuito Retificador com LM7809 e com o divisor de tensão.<h2>
+   <img src='images/DIVISOR DE TENSAO 1.png'>
+      <img src='images/DIVISOR DE TENSAO TINKER 1.png'>
+
 </body>
 
